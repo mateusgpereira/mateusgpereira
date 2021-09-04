@@ -1,6 +1,6 @@
 ### Mateus Pereira Aqui 🤙🏾
 
-- 👨🏾‍💻 Hoje trabalho como FullStack
+- 👨🏾‍💻 Trabalhando como FullStack
 - 🎓 Cursando Sistemas para Internet
 - 📖 Estudando: ReactJS
 
