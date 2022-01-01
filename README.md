@@ -2,7 +2,7 @@
 
 - 👨🏾‍💻 Trabalhando como FullStack
 - 🎓 Cursando Sistemas para Internet
-- 📖 Estudando: ReactJS
+- 📖 Estudando: Angular
 
  <div>
   <a href="https://github.com/mateusgpereira">
