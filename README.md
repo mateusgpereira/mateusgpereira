@@ -1,8 +1,8 @@
 ### Mateus Pereira Aqui 🤙🏾
 
-- 👨🏾‍💻 Trabalhando como FullStack
+- 👨🏾‍💻 Trabalhando como FrontEnd
 - 🎓 Cursando Sistemas para Internet
-- 📖 Estudando: Angular
+- 📖 Lendo: Clean Code
 
  <div>
   <a href="https://github.com/mateusgpereira">
