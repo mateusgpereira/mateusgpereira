@@ -2,7 +2,7 @@
 
 - 👨🏾‍💻 Trabalhando como FullStack (Java|Angular)
 - 🎓 Cursando Sistemas para Internet
-- 📖 Estudando: Tailwind
+- 📖 Estudando: WebFlux
 
  <div>
   <a href="https://github.com/mateusgpereira">
