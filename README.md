@@ -23,8 +23,8 @@ I’m a FullStack developer focused on Java and Angular, currently studying Inte
 
 <p>
   <a href="https://github.com/mateusgpereira">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mateusgpereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub statistics for Mateus Pereira">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgpereira&layout=compact&langs_count=7&theme=dracula" alt="Most used programming languages">
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mateusgpereira&theme=dracula" alt="GitHub statistics for Mateus Pereira">
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mateusgpereira&theme=dracula" alt="Most used programming languages">
   </a>
 </p>
 
@@ -37,5 +37,5 @@ I’m a FullStack developer focused on Java and Angular, currently studying Inte
 </p>
 
 <p>
-  <img src="https://github.com/mateusgpereira/mateusgpereira/blob/output/github-contribution-grid-snake.svg" alt="Animated contribution graph">
+  <img src="https://raw.githubusercontent.com/mateusgpereira/mateusgpereira/output/github-contribution-grid-snake.svg" alt="Animated contribution graph">
 </p>
